@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.elipse.mtj.JavaMEContainer/Sun Java(TM) Wireless Toolkit 2.5.2_01 for CLDC/DefaultColorPhone"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.mtj.core.EXTERNAL_LIBRARY/JMUnit for CLDC 1.1"/>
+	<classpathentry exported="true" kind="lib" path="/home/gercan/Develop/pulsar/configuration/org.eclipse.osgi/bundles/523/1/.cp/lib/floggy-persistence-framework-1.3.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://floggy.sourceforge.net/modules/floggy-persistence-framework/1.3.1/floggy-persistence-framework/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="floggy-persistence-framework-impl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

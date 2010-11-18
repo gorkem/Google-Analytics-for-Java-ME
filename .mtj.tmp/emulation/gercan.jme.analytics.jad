@@ -1,0 +1,7 @@
+MIDlet-Jar-Size: 38984
+MIDlet-Jar-URL: gercan.jme.analytics.jar
+MIDlet-Name: gercan.analytics. MIDlet Suite
+MIDlet-Vendor: Gorkem Ercan
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
